@@ -1,4 +1,4 @@
-![alt text](images/1.png "catsndogs.lol Logo")
+
 
 
 # Workshop overview
